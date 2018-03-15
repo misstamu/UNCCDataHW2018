@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Financial Analysis
 ----------------------------------------------
 Total Months: 41
 Total Revenue: $18971412
 Average Revenue Change: $462717
 Greatest Increase In Revenue: Sep-15 ($1195111)
+=======
+Financial Analysis
+----------------------------------------------
+Total Months: 41
+Total Revenue: $18971412
+Average Revenue Change: $462717
+Greatest Increase In Revenue: Sep-15 ($1195111)
+>>>>>>> 5efaf58c4ebea51d19fc034965cd85c7203be885
 Greatest Decrease In Revenue: Aug-14 ($-1172384)
