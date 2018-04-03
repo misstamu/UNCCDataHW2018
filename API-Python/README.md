@@ -2,6 +2,7 @@
 # WeatherPy
 
 Observations:
+
 The latitiude vs temperature plot shows the hottest temps or close to are at the equator (0 degrees) and decrease the further you move from it.
 
 According to the plot many of the cities have at least 60% humidity in the air at the time of the data retrieval.
@@ -33,7 +34,7 @@ for x in range(0,800):
     coord.append(x)
 ```
 
-#Generate Cities List
+# Generate Cities List
 
 
 ```python
@@ -144,7 +145,7 @@ city_df.head()
 
 
 
-#Perform API Calls
+# Perform API Calls
 
 
 ```python
@@ -2011,7 +2012,7 @@ city_df.head()
 city_df.to_csv("City Weather Output.csv")
 ```
 
-#Latitude vs Temperature Plot
+# Latitude vs Temperature Plot
 
 
 ```python
@@ -2037,7 +2038,7 @@ plt.show()
 ![png](output_12_0.png)
 
 
-#Latitude vs Humidity Plot
+# Latitude vs Humidity Plot
 
 
 ```python
@@ -2062,7 +2063,7 @@ plt.show()
 ![png](output_14_0.png)
 
 
-#Latitude vs Cloudiness Plot
+# Latitude vs Cloudiness Plot
 
 
 ```python
@@ -2087,7 +2088,7 @@ plt.show()
 ![png](output_16_0.png)
 
 
-#Latitude vs Wind Speed Plot
+# Latitude vs Wind Speed Plot
 
 
 ```python
